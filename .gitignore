@@ -3,7 +3,20 @@ cat > .gitignore << 'EOF'
 *.out
 a.out
 *.exe
-EOF
-git add .gitignore
-git commit -m "Add .gitignore"
-git push
+Armstrong_number
+Binary_number_into_decimal_number
+Compute_factorial_of_a_number
+Compute_lcd_and_gcd
+Employee_record_management
+File_copying
+Menu_driven
+Menu_driven_string_operation
+Print_digit_of_a_number_in_reverse_order
+Separate_into_even_and_odd_numbers
+Simple_calculator
+Students_mark_evaluation
+Sum_of_sine_series
+Swap_number_with_and_without_using_pointers
+Use_array_to_display_student_detail
+generate_pseudo_random__number
+basic_matrix_operation
